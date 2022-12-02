@@ -1,0 +1,62 @@
+*{
+    font-family: 'El Messiri', sans-serif!important;
+    scroll-behavior: smooth;
+}
+h1{
+    font-weight: 700;
+    font-size: 480%;
+}
+.foto{
+    width: 100%;
+}
+@media (max-width: 600px) {
+    h1 {font-size: 200%;
+    }
+}
+
+.nav-item:hover{
+    border-bottom: 1px #d31b27 solid;
+}
+.estrellas>svg{
+    color: rgb(255, 230, 0);
+}
+.reserva:hover{
+    background-color: rgb(230, 230, 230)!important;
+}
+.text-center>img:hover{
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s; /* don't forget to set a duration! */
+}
+.aus>img{
+    width: 100%;
+}
+p{
+    font-size: 1.1em;
+}
+
+/* menu */
+.underline {
+    display: block;
+    width: 50%;
+    height: 1px;
+    margin-top: 1rem;
+    background-color: rgba(61,61,60,0.2);
+}
+.menu-item {
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(5,5,24,0.836);
+    text-transform: capitalize;
+}
+.menu-detail {
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: rgba(61,61,60,0.705);
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+}
+
+/* reservation */
+#reservaBtn{
+    z-index: 2;
+}
