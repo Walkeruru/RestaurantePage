@@ -78,6 +78,7 @@ menus.forEach((btn) =>
             </div>
             <hr class="m-5">
         `;
+    btn.scrollIntoView();
     menu();
     btnReserva();
     document.getElementById("home").classList.add("active");
