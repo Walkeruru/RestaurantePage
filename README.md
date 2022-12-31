@@ -22,5 +22,6 @@ Una vez en la página de inicio, dispone de tres enlaces en la barra de navegaci
 ![Menu](https://i.postimg.cc/fTbF89yb/shot-2022-12-31-01-54-40.png)
 
 **Responsive desing**
+
 ![homePhone](https://i.postimg.cc/Z5Sw1vK3/shot-2022-12-31-01-56-11.png)
 ![menuPhone](https://i.postimg.cc/d0Smthv5/shot-2022-12-31-01-57-08.png)
